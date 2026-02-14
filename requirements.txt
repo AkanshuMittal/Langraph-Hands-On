@@ -1,10 +1,10 @@
 ipykernel
-dotenv
+python-dotenv
 langchain
-langchain_community
-langchain_openai
-langchain_google_genai
-langchain_core
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-core
 langgraph
 youtube-search-python
 youtube-search

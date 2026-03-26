@@ -8,3 +8,4 @@ langchain-core
 langgraph
 youtube-search-python
 youtube-search
+streamlit
